@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Hi! 👋</h1>
+<h3 align="left">Hi! 👋</h1>
 
 ###
 
