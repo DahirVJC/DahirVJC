@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Dahir,<br><br>-💻 I’m working as a Software Developer<br>-📘 Currently learning REST API design and best practices<br>-✉️ Contact: dahir.vjr@outlook.com</p>
+<p align="left">I'm Dahir,<br><br>-💻 I’m working as a Software Developer<br>-📘 Currently learning REST API design and best practices in Go<br>-✉️ Contact: dahir.vjr@outlook.com</p>
 
 ###
 
@@ -20,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
